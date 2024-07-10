@@ -59,11 +59,6 @@ IV. Skill
 
 V. Publications
 ======
-
-#  <ul>{% for post in site.publications reversed %}
-#   {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-
 **Journal Paper**
 
 [1]	**Y. Wang**, X. Bao, W. Hua, K. Liu, P. Wang, M. Hu, H. Zhang, "Implementation of Embedded Magnetic Encoder for Rotor Position Detection Based on Arbitrary Phase-Shift Phase-Lock Loop," IEEE Trans. Ind. Electron., vol. 69, no. 2, pp. 2033-2043, Feb. 2022.	中科院1区，JCR 1区
