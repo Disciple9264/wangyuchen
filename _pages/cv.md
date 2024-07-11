@@ -61,27 +61,27 @@ V. Publications
 ======
 **Journal Paper**
 
-[1]	**Y. Wang**, X. Bao, W. Hua, K. Liu, P. Wang, M. Hu, H. Zhang, "Implementation of Embedded Magnetic Encoder for Rotor Position Detection Based on Arbitrary Phase-Shift Phase-Lock Loop," IEEE Trans. Ind. Electron., vol. 69, no. 2, pp. 2033-2043, Feb. 2022.	中科院1区，JCR 1区
+[1]	**Y. Wang**, X. Bao, W. Hua, K. Liu, P. Wang, M. Hu, H. Zhang, "Implementation of Embedded Magnetic Encoder for Rotor Position Detection Based on Arbitrary Phase-Shift Phase-Lock Loop," IEEE Trans. Ind. Electron., vol. 69, no. 2, pp. 2033-2043, Feb. 2022.
 
-[2]	**Y. Wang**, W. Hua, C. Zhang, Z. Wu and H. Zhang, "Concept and Implementation of Embedded Magnetic Encoder in Flux-Switching Permanent-Magnet Machines," IEEE Trans. Ind. Electron., vol. 69, no. 11, pp. 11796-11806, Nov. 2022.	中科院1区，JCR 1区
+[2]	**Y. Wang**, W. Hua, C. Zhang, Z. Wu and H. Zhang, "Concept and Implementation of Embedded Magnetic Encoder in Flux-Switching Permanent-Magnet Machines," IEEE Trans. Ind. Electron., vol. 69, no. 11, pp. 11796-11806, Nov. 2022.
 
-[3]	**Y. Wang**, K. Liu, W. Hua, C. Zhang, Z. Wu and H. Zhang, "Analysis and Detection of Rotor Eccentricity in PMSMs Based on Linear Hall Sensors," IEEE Trans. Power Electron., vol. 37, no. 4, pp. 4719-4729, April 2022.	中科院1区，JCR 1区
+[3]	**Y. Wang**, K. Liu, W. Hua, C. Zhang, Z. Wu and H. Zhang, "Analysis and Detection of Rotor Eccentricity in PMSMs Based on Linear Hall Sensors," IEEE Trans. Power Electron., vol. 37, no. 4, pp. 4719-4729, April 2022.
 
-[4]	**Y. Wang**, H. Zhang, K. Liu, M. Hu, Z. Wu, C. Zhang, W. Hua, "A Forward Compensation Method to Eliminate DC Phase Error in SRF-PLL," IEEE Trans. Power Electron., vol. 37, no. 6, pp. 6280-6284, June 2022.	中科院1区，JCR 1区
+[4]	**Y. Wang**, H. Zhang, K. Liu, M. Hu, Z. Wu, C. Zhang, W. Hua, "A Forward Compensation Method to Eliminate DC Phase Error in SRF-PLL," IEEE Trans. Power Electron., vol. 37, no. 6, pp. 6280-6284, June 2022.
 
-[5]	**Y. Wang**, H. Zhang and W. Hua, "A Robust Forward Compensated Type-2 PLL Without DC Phase Error During Frequency Ramp for Embedded Magnetic Encoder," IEEE Trans. Power Electron., vol. 38, no. 5, pp. 5649-5654, May 2023.	中科院1区，JCR 1区
+[5]	**Y. Wang**, H. Zhang and W. Hua, "A Robust Forward Compensated Type-2 PLL Without DC Phase Error During Frequency Ramp for Embedded Magnetic Encoder," IEEE Trans. Power Electron., vol. 38, no. 5, pp. 5649-5654, May 2023.
 
-[6]	**Y. Wang**, H. Zhang, J. Zhang, H. Yin, P. Wang, C. Zhang, W. Hua, "Kriging-Assisted Multiobjective Optimization of Embedded Magnetic Encoder in PM Synchronous Machines," IEEE Trans Instrum Meas, vol. 72, pp. 1-12, 2023.	中科院2区，JCR 1区
+[6]	**Y. Wang**, H. Zhang, J. Zhang, H. Yin, P. Wang, C. Zhang, W. Hua, "Kriging-Assisted Multiobjective Optimization of Embedded Magnetic Encoder in PM Synchronous Machines," IEEE Trans Instrum Meas, vol. 72, pp. 1-12, 2023.
 
-[7]	**Y. Wang**, H. Ahmed, H. Zhang and W. Hua, "Feedforward PLLs for Motor Position Estimation Using Embedded Magnetic Encoder," IEEE Sensors Journal, vol. 24, no. 7, pp. 10307-10315, 1 April, 2024,.	中科院2区，JCR 1区
+[7]	**Y. Wang**, H. Ahmed, H. Zhang and W. Hua, "Feedforward PLLs for Motor Position Estimation Using Embedded Magnetic Encoder," IEEE Sensors Journal, vol. 24, no. 7, pp. 10307-10315, 1 April, 2024.
 
-[8]	H. Zhang, **Y. Wang**, W. Hua, D. Gerada and M. Cheng, "Analysis of the Flux Density and Back EMF in Eccentric Permanent Magnet Machines Based on 2-D Air-Gap Modulation Theory," IEEE Trans. Transp. Electrif., vol. 8, no. 4, pp. 4325-4336, Dec. 2022.（副导师一作）	中科院1区，JCR 1区
+[8]	H. Zhang, **Y. Wang**, W. Hua, D. Gerada and M. Cheng, "Analysis of the Flux Density and Back EMF in Eccentric Permanent Magnet Machines Based on 2-D Air-Gap Modulation Theory," IEEE Trans. Transp. Electrif., vol. 8, no. 4, pp. 4325-4336, Dec. 2022.
 
-[9]	C. Zhang, **Y. Wang**, H. Zhang, Z. Wu, J. Tao and W. Hua, "Armature Reaction on Implementation of Embedded Magnetic Encoder in Fractional-Slot Concentrated-Winding Permanent Magnet Machines," IEEE Trans. Ind. Electron., vol. 70, no. 7, pp. 6699-6710, July 2023.	中科院1区，JCR 1区
+[9]	C. Zhang, **Y. Wang**, H. Zhang, Z. Wu, J. Tao and W. Hua, "Armature Reaction on Implementation of Embedded Magnetic Encoder in Fractional-Slot Concentrated-Winding Permanent Magnet Machines," IEEE Trans. Ind. Electron., vol. 70, no. 7, pp. 6699-6710, July 2023.
 
-[9]	C. Zhang, **Y. Wang**, Z. Wu, W. Hua and M. Zhang, "Implementation of Dual Three-Phase Linear Hall Sensor-Based Embedded Magnetic Encoder in Permanent Magnet Synchronous Motors," IEEE Trans. Power Electron.. Early Access	中科院1区，JCR 1区
+[9]	C. Zhang, **Y. Wang**, Z. Wu, W. Hua and M. Zhang, "Implementation of Dual Three-Phase Linear Hall Sensor-Based Embedded Magnetic Encoder in Permanent Magnet Synchronous Motors," IEEE Trans. Power Electron.. Early Access
 
-[10]	X. Guo, **Y. Wang**, X. Chen, Z. Chen, W. Hua and R. Zhong, "An Embedded Magnetic Encoder-Based Rotor Position Estimation for Switched Reluctance Machine," IEEE Trans. Transp. Electrif., vol. 10, no. 1, pp. 110-121, March 2024	中科院1区，JCR 1区
+[10]	X. Guo, **Y. Wang**, X. Chen, Z. Chen, W. Hua and R. Zhong, "An Embedded Magnetic Encoder-Based Rotor Position Estimation for Switched Reluctance Machine," IEEE Trans. Transp. Electrif., vol. 10, no. 1, pp. 110-121, March 2024.
 
 **Conference Paper**
 
