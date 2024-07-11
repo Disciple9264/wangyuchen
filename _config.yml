@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "首页"
+title                    : "王宇辰 Yuchen Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
